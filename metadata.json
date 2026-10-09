@@ -1,0 +1,8 @@
+{
+  "name": "AI Mouth Catcher Game",
+  "description": "A computer vision game where you catch falling food with your mouth using the webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
